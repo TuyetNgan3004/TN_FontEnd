@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\nhanvien"
+		},
+		{
+			"path": "..\\..\\sona_master"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "QLKS_NV"
+	}
+}
